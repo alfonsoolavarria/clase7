@@ -82,7 +82,7 @@ def musico1(request):
         print("Musio......", request.POST)
         nombre = request.POST.get("first_name")
         especialidad = request.POST.get("last_name")
-        .......
+        
 
 
 def login_view(request):
